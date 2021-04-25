@@ -1,0 +1,13 @@
+.search-bar-container { 
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 10px;
+    min-height: 75px;
+    border: 4px solid rgb(44, 25, 218);
+    padding: 10px;
+    text-align: left;
+}
+
+.Searchbar-input {
+    margin-bottom: 10px;
+}

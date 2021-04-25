@@ -1,0 +1,13 @@
+.course-container { 
+    width: 95%;
+    margin: 0 auto;
+    min-height: 20px;
+    border: 5px solid rgba(37, 133, 241, 0.911);
+    margin-top: 10px;
+    border-collapse: separate;
+    border-spacing: 20px 5px;
+    text-align: inherit;
+    font-style: oblique;
+    font-size: small;
+    font-weight: 600;
+}
